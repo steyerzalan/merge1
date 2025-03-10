@@ -1,2 +1,3 @@
 <?php
-print("fejl agak");
+print("fejl agak ide be m1ag");
+
