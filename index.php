@@ -1,2 +1,2 @@
 <?php
-print("fejl ag 2");
+print("fejl agak");
